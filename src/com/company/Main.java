@@ -7,5 +7,6 @@ public class Main {
         System.out.println("En endnu nyere kode");
         System.out.println("Koden");
         System.out.println("Hvad laver du inde på min github din lille...");
+        System.out.println("Hvad skal der ske shababs");
     }
 }
